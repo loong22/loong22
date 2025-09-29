@@ -35,13 +35,12 @@ My Email: MTI2NjY4NzU1K2xvb25nMjJAdXNlcnMubm9yZXBseS5naXRodWIuY29t
 | [googletest](https://github.com/google/googletest) | Google的C++测试框架。 |
 | [v2rayNG](https://github.com/2dust/v2rayNG) | 一个适用于Android的V2Ray客户端。 |
 | [v2rayN](https://github.com/2dust/v2rayN) | 一个适用于Windows的V2Ray客户端。 |
-| [Xray Panel](https://github.com/SaeedDev94/Xray) | 一个支持多协议和多用户的Xray面板。 |
 | [3x-ui](https://github.com/MHSanaei/3x-ui) | 一个支持多种协议的Xray面板UI。 |
 | [Xray-core](https://github.com/XTLS/Xray-core) | Xray项目的核心，一个用于构建网络代理的平台。 |
+| | |
 
 ## Tutorials
 
-#### Linux
 | | | | |
 | :--- | :--- | :--- | :--- |
 | [Git相关知识](./Tutorials/Linux/01.md) | [申请SSL证书](./Tutorials/Linux/02.md) | [设置SSH证书登录](./Tutorials/Linux/03.md) | [设置SSH防爆破](./Tutorials/Linux/04.md) |
@@ -55,16 +54,19 @@ My Email: MTI2NjY4NzU1K2xvb25nMjJAdXNlcnMubm9yZXBseS5naXRodWIuY29t
 | [Nano教程](./Tutorials/Linux/33.md) | [Python-3.11.0编译安装教程](./Tutorials/Linux/34.md) | [Python设置国内pip源](./Tutorials/Linux/35.md) | [命令行设置socks5代理, Docker设置代理](./Tutorials/Linux/36.md) |
 | [Xray部署安装](./Tutorials/Linux/37.md) | [3X-ui部署安装](./Tutorials/Linux/38.md) | [Ubuntu设置网络](./Tutorials/Linux/39.md) | [查找并替换字符串](./Tutorials/Linux/40.md) |
 | [系统常用命令](./Tutorials/Linux/41.md) | [系统调试命令](./Tutorials/Linux/42.md) | [Linux环境变量](./Tutorials/Linux/43.md) | [生成指定大小的文件](./Tutorials/Linux/44.md) |
+| | | | |
 
-#### Windows
+
 | | | | |
 | :--- | :--- | :--- | :--- |
 | [Chrome默认无痕模式](./Tutorials/Windows/01.md) | [关闭系统更新](./Tutorials/Windows/02.md) | [关闭搜索联网](./Tutorials/Windows/03.md) | [驱动下载地址](./Tutorials/Windows/04.md) |
 | [隐藏盘符](./Tutorials/Windows/05.md) | [复制文件命令](./Tutorials/Windows/06.md) | [卓越性能模式(一般平衡模式即可)](./Tutorials/Windows/07.md) | [内网穿透(推荐使用frp方式,此方法不推荐)](./Tutorials/Windows/08.md) |
 | [VSCode简易教程](./Tutorials/Windows/09.md) | [Petsc编译安装教程](./Tutorials/Windows/10.md) | [系统常用命令](./Tutorials/Windows/11.md) | |
+| | | | |
 
-#### Others
+
 | | | | |
 | :--- | :--- | :--- | :--- |
 | [IP子网掩码](./Tutorials/Others/01.md) | [IP路由](./Tutorials/Others/02.md) | [Pointwise](./Tutorials/Others/03.md) | [Mutationpp](./Tutorials/Others/04.md) |
 | [Office(Mac_System)](./Tutorials/Others/05.md) | [光猫和路由器简介](./Tutorials/Others/06.md) | [软件开发版本号相关](./Tutorials/Others/07.md) | |
+| | | | |
