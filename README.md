@@ -175,6 +175,7 @@
 - [VSCode简易教程](./Tutorials/Windows/09.md)
 - [Petsc编译安装教程](./Tutorials/Windows/10.md)
 - [系统常用命令](./Tutorials/Windows/11.md)
+- [MingW64编译SU2](./Tutorials/Windows/12.md)
 
 ### Others
 - [IP子网掩码](./Tutorials/Others/01.md)
