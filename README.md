@@ -171,7 +171,7 @@
 - [隐藏盘符](./Tutorials/Windows/05.md)
 - [复制文件命令](./Tutorials/Windows/06.md)
 - [卓越性能模式(一般平衡模式即可)](./Tutorials/Windows/07.md)
-- [内网穿透(推荐使用frp方式,此方法不推荐)](./Tutorials/Windows/08.md)
+- [内网穿透(frp)](./Tutorials/Windows/08.md)
 - [VSCode简易教程](./Tutorials/Windows/09.md)
 - [Petsc编译安装教程](./Tutorials/Windows/10.md)
 - [系统常用命令](./Tutorials/Windows/11.md)
