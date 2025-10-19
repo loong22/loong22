@@ -72,6 +72,7 @@
 
 - [bypass-paywalls-chrome-clean US新闻-Gitflic](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean) - bypass-paywalls-chrome-clean US新闻-Gitflic
 
+- [CryptPad.org](https://cryptpad.org/)
 
 ## Tools
 - [Z-library Project - eBook Library Z. Download free Books](https://z-library.sk/) - Z-library Project - eBook Library Z. Download free Books
@@ -113,7 +114,11 @@
 
 - [查看我的 IP 地址](https://ip.skk.moe/) - 查看我的 IP 地址
 
+- [Hugging Face](https://huggingface.co/)
 
+    - [https://huggingface.co/nanonets/Nanonets-OCR2-3B](https://huggingface.co/nanonets/Nanonets-OCR2-3B)
+
+- [ollama](https://ollama.com/)
 
 ## Tutorials
 
